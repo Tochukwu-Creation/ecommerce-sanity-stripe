@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies https://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@github.com/Tochukwu-Creation/ecommerce-sanity-stripe.git
+# dependencies 
 node_modules
 /.pnp
 .pnp.js
