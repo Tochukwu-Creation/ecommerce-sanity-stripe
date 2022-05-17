@@ -77,7 +77,8 @@ import React, {createContext, useContext,
         value={
             {
                 showCart, setShowCart, cartItems, totalPrice, totalQuantities, 
-                qty, incQty, decQty, onAdd, toggleCartItemQuantity, onRemove
+                qty, incQty, decQty, onAdd, toggleCartItemQuantity, onRemove, setCartItems,
+                setTotalPrice, setTotalQuantities
             }
         }
         >
